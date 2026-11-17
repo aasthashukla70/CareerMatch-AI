@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Resume and generated data (may contain personal information)
+data/raw/
+data/processed/
